@@ -1,0 +1,2 @@
+--集合運算
+--聯集 union, 交集 intersect, 差集 except
